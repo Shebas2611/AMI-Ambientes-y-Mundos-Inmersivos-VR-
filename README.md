@@ -2,7 +2,7 @@
 
 🚀 **Bienvenido a AMI**, un proyecto innovador que utiliza **Realidad Virtual** para simular ecosistemas naturales, permitiendo a los usuarios explorar y modificar su entorno en tiempo real. 🌱🌎
 
----
+
 
 ## 📌 Descripción del Proyecto
 AMI es una plataforma interactiva de simulación de ecosistemas que combina:
@@ -14,7 +14,7 @@ AMI es una plataforma interactiva de simulación de ecosistemas que combina:
 
 🎯 **Objetivo:** Ofrecer una experiencia inmersiva y educativa que fomente la conciencia ambiental.  
 
----
+
 
 ## 🛠 Tecnologías Utilizadas
 ✅ **Unity** (VR Development)  
@@ -23,6 +23,4 @@ AMI es una plataforma interactiva de simulación de ecosistemas que combina:
 ✅ **HTML, CSS y JavaScript** (Diseño Web)  
 ✅ **Impresión 3D con filamento PLA**  
 
----
 
-## 📂 Estructura del Repositorio
